@@ -1,0 +1,14 @@
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/TaskManagementSystem.AssemblyInfoInputs.cache
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/TaskManagementSystem.AssemblyInfo.cs
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/TaskManagementSystem.csproj.CoreCompileInputs.cache
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/bin/Debug/net9.0/TaskManagementSystem
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/bin/Debug/net9.0/TaskManagementSystem.deps.json
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/bin/Debug/net9.0/TaskManagementSystem.runtimeconfig.json
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/bin/Debug/net9.0/TaskManagementSystem.dll
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/bin/Debug/net9.0/TaskManagementSystem.pdb
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/TaskManagementSystem.dll
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/refint/TaskManagementSystem.dll
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/TaskManagementSystem.pdb
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/TaskManagementSystem.genruntimeconfig.cache
+/Users/charlienunn/Documents/Task_Manager/TaskManagementSystem/obj/Debug/net9.0/ref/TaskManagementSystem.dll
